@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/khulnasoft-lab/utils v0.0.47
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
